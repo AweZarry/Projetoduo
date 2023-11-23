@@ -347,7 +347,7 @@ include_once('../view/navbar.php')
                         </div>
 
                         <div id="subcategoria-input" style="display: none;">
-                            <label for="titdicas">Titulo da Dica</label>
+                            <label for="titdicas ">Titulo da Dica</label>
                             <input type="text" name="titdicas">
                             <label for="dicainput">Dica</label>
                             <textarea class="textadc" name="dicainput" cols="30" rows="10"></textarea>
